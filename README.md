@@ -11,7 +11,7 @@
 ## ~ 📑 Recent Activity 📑 ~
 
 <!-- RECENT_ACTIVITY:START -->
-<!-- This section is automatically updated by GitHub Actions -->
+*Unable to fetch recent activity*
 <!-- RECENT_ACTIVITY:END -->
 
 ## ~ 💻 Tech Stack 💻 ~
