@@ -8,12 +8,6 @@
 - 🌱 Learning and exploring new technologies
 - ⚡ Fun fact: I love building tools that make life easier!
 
-## ~ 📑 Recent Activity 📑 ~
-
-<!-- RECENT_ACTIVITY:START -->
-*Unable to fetch recent activity*
-<!-- RECENT_ACTIVITY:END -->
-
 ## ~ 💻 Tech Stack 💻 ~
 
 <div align="center">
@@ -88,18 +82,6 @@
 
 </div>
 
-
-## ~ 📊 GitHub Profile Stats 📊 ~
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KerrhinDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KerrhinDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KerrhinDev&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
-
-</div>
 
 ## ~ 🎯 Featured Projects 🎯 ~
 
